@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hola! Soy Faprin<br><br>Actualmente, soy estudiante de Ingeniería Informática, especializándome en desarrollo de software. Tengo una pasión por la tecnología y un fuerte deseo de aprender y dominar nuevas herramientas y lenguajes. Mi objetivo es convertirme en un ingeniero de software altamente competente y estoy constantemente buscando oportunidades para crecer y mejorar.<br><br>    Especialización en Software: Profundizando en técnicas y tecnologías de vanguardia para desarrollar soluciones innovadoras.<br>    Aprendizaje Continuo: Comprometido con el aprendizaje de nuevas tecnologías y metodologías que impulsen la eficiencia y calidad de mis proyectos.<br>    Colaboración y Trabajo en Equipo: Experiencia en proyectos colaborativos, valorando la comunicación abierta y el trabajo en equipo.<br>
+
+¡Hola! Soy Faprin
+
+Actualmente, soy estudiante de Ingeniería Informática, especializándome en desarrollo de software. Tengo una pasión por la tecnología y un fuerte deseo de aprender y dominar nuevas herramientas y lenguajes. Mi objetivo es convertirme en un ingeniero de software altamente competente y estoy constantemente buscando oportunidades para crecer y mejorar.
+
+- **Especialización en Software:** Profundizando en técnicas y tecnologías de vanguardia para desarrollar soluciones innovadoras.
+- **Aprendizaje Continuo:** Comprometido con el aprendizaje de nuevas tecnologías y metodologías que impulsen la eficiencia y calidad de mis proyectos.
+- **Colaboración y Trabajo en Equipo:** Experiencia en proyectos colaborativos, valorando la comunicación abierta y el trabajo en equipo.
+
+Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración. Si estás buscando a alguien apasionado, con ganas de crecer y contribuir al éxito de tus proyectos, ¡no dudes en contactarme!
+
 
 
 ## 🌐 Socials:
