@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 
 ¡Hola! Soy Faprin
 
@@ -12,7 +12,7 @@ Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración. Si 
 
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faprin) 
 
 # 💻 Tech Stack:
