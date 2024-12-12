@@ -8,8 +8,6 @@ Actualmente, soy estudiante de Ingeniería Informática, especializándome en de
 - **Aprendizaje Continuo:** Comprometido con el aprendizaje de nuevas tecnologías y metodologías que impulsen la eficiencia y calidad de mis proyectos.
 - **Colaboración y Trabajo en Equipo:** Experiencia en proyectos colaborativos, valorando la comunicación abierta y el trabajo en equipo.
 
-Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración. Si estás buscando a alguien apasionado, con ganas de crecer y contribuir al éxito de tus proyectos, ¡no dudes en contactarme!
-
 
 
 ## 🌐 Redes Sociales:
