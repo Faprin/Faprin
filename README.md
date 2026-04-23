@@ -1,5 +1,9 @@
 #  About Me:
-💻 Ingeniero Informático | Enfocado en Software<br><br>Apasionado por el desarrollo de software y la optimización de sistemas. Siempre en busca de mejorar mis habilidades y explorar nuevas tecnologías. Actualmente, trabajo como freelancer, diseñando soluciones eficientes y escalables para diversos proyectos.<br><br>🚀 Interesado en arquitectura de software, desarrollo backend y algoritmia avanzada.<br>🔧 Experiencia en Java, C++, Spring Boot, React, Astro y bases de datos.<br>📈 En constante aprendizaje y perfeccionamiento de buenas prácticas en desarrollo.<br><br>"El código limpio no solo es funcional, sino también elegante y comprensible."
+💻  Hola, soy Jose Manuel Domínguez. Como estudiante de Igeniería Informática, me especializo en la intersección entre el desarrollo de software y la Inteligencia Artificial. Actualmente, me encuentro cursando la certificación de IBM GenAI, con el objetivo de integrar modelos generativos en soluciones reales y eficientes.
+
+Me esfuerzo diariamente por aprender nuevas tecnologías y aplicarlas en proyectos desafiantes. Creo en el diseño minimalista y funcional, y busco la excelencia en cada línea de código que escribo.
+
+Mi ambición me impulsa a no conformarme con lo básico, buscando siempre innovar y crear soluciones que aporten valor real. 
 
 
 ## 🌐 Socials:
