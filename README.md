@@ -16,15 +16,6 @@ Actualmente cursando **Ingeniería Informática** + **IBM Generative AI Engineer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faprin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc&icon_color=58a6ff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faprin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc" alt="Top Languages" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & Data Science
