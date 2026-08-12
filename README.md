@@ -47,16 +47,6 @@ Actualmente cursando **Ingeniería Informática** + **IBM Generative AI Engineer
 
 ---
 
-## 🎯 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **RCA Platform** | Root Cause Analyzer para Distributed Systems | Python, PyTorch, Pandas, Chaos Eng. |
-| **SwapApp** | Exchange app hiperlocal con economía de coins | Spring Boot, Flutter, PostgreSQL, PostGIS |
-| **Wildfire Risk Predictor** | Predicción de riesgo de incendios en España | XGBoost, SHAP, Streamlit, Sentinel-2 |
-
----
-
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-dom%C3%ADnguez-segura-9b779b312/)
