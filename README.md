@@ -16,7 +16,7 @@ desde el modelo hasta su puesta en producción.
 <p>
 <a href="https://www.linkedin.com/in/jose-manuel-dom%C3%ADnguez-segura-9b779b312/">LinkedIn</a>
 &nbsp;·&nbsp; 
-<a href="https://faprin.netlify.app/">portfolio</a>
+<a href="https://faprin.netlify.app/">Portfolio</a>
 </p>
 
 <br>
