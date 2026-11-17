@@ -1,64 +1,53 @@
-# 🚀 Jose Manuel Domínguez
-
-### Software Engineer | AI & Data Engineering
-
-Especialista en la intersección entre **desarrollo de software robusto** y **Inteligencia Artificial avanzada**. Combino comprensión matemática profunda de modelos con capacidad ingenieril para ponerlos en producción a escala.
-
-Actualmente cursando **Ingeniería Informática** + **IBM Generative AI Engineering**, con el objetivo de formar parte de equipos técnicos en Google, Microsoft o Amazon.
-
----
-
-## 🧠 Actualmente aprendiendo
-
-- 🤖 **IA Generativa Avanzada:** LLMs, RAG, LangChain, Fine-Tuning (LoRA/PEFT)
-- 🔬 **Deep Learning desde cero:** Transformers, nanoGPT, autograd en PyTorch
-- ⚙️ **MLOps e Infraestructura:** Containerización, deployment y monitoring de modelos
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### ⚙️ Backend & DevOps
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 💻 Lenguajes Core
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
----
-
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-dom%C3%ADnguez-segura-9b779b312/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmdominguezsegura@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faprin)
-
----
-
 <div align="center">
 
-**"La excelencia no es un acto, es un hábito. El código limpio y bien estructurado es el reflejo de una ingeniería bien ejecutada."**
+<h1>Jose Manuel Domínguez Segura</h1>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Faprin&color=0d1117&style=for-the-badge)
+<p><b>Ingeniero de Datos & IA</b></p>
+
+<p>
+Diseño y construyo sistemas de datos e inteligencia artificial,<br>
+desde el modelo hasta su puesta en producción.
+</p>
+
+<p>
+<sub>Ingeniería Informática · IBM Generative AI Engineering · Huelva / Sevilla, España</sub>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/jose-manuel-dom%C3%ADnguez-segura-9b779b312/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:jmdominguezsegura@gmail.com">Email</a>
+</p>
+
+<br>
+
+<h3>Proyectos</h3>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Traza</b><br><br>
+      <sub>Plataforma B2B de inteligencia artificial que evalúa la viabilidad urbanística de una parcela a partir del planeamiento municipal. Dirigida a ayuntamientos, promotoras y estudios de arquitectura.</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>Blanqueamiento coralino</b><br><br>
+      <sub>Trabajo Fin de Grado. Localización y clasificación del blanqueamiento de corales en imágenes submarinas mediante deep learning.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,cpp,cs,ts,spring,postgres,docker,kubernetes,angular,astro,tailwind&perline=7" alt="Python, PyTorch, scikit-learn, Java, C++, C#, TypeScript, Spring, PostgreSQL, Docker, Kubernetes, Angular, Astro, Tailwind CSS" />
+
+<br><br>
+
+<h3>Ahora mismo</h3>
+
+<p>
+<sub>LLMs y RAG · Fine-tuning  · Deep Learning · MLOps</sub>
+</p>
 
 </div>
